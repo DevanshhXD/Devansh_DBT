@@ -1,0 +1,1 @@
+project for an e-commerce dataset built on Snowflake. Models include staging, marts, and metrics.
